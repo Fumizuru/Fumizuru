@@ -1,6 +1,6 @@
 <!-- HEADER ILLUSTRATION -->
 <p align="center">
-  <img src="https://wallpapercave.com/wp/wp7664856.png" width="100%" alt="Game Dev Banner"/>
+  <img src="https://media1.giphy.com/avatars/kendallaking/qYZoVGDtfIKh.GIF" width="50%" alt="Game Dev Banner"/>
 </p>
 
 <h1 align="center">🎮 Hi, I'm Rico Surya Permana</h1>
@@ -40,13 +40,6 @@ Saya adalah pengembang game yang fokus pada pembuatan pengalaman bermain yang me
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![DOTween](https://img.shields.io/badge/-DOTween-FF69B4?style=flat&logo=unity)
 
----
-
-## 📫 Hubungi Saya
-
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 📧 Email: [riko7juni2002@gmail.com](riko7juni2002@gmail.com)
-- 🌐 [Portofolio / Website](https://yourwebsite.com)
 
 ---
 
