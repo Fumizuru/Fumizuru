@@ -1,101 +1,105 @@
-👋 Halo! Selamat datang di profil GitHub saya!
-
-[![Your Name](https://img.shields.io/badge/-Your%20Name-000?style=flat-square&logo=github)](https://github.com/your-username)
-[![Location](https://img.shields.io/badge/-Semarapura,%20Bali,%20Indonesia-informational?style=flat-square&logo=location)](https://www.google.com/maps/place/Semarapura,+Klungkung+Regency,+Bali)
-[![Your LinkedIn Profile](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile/)
-[![Your Twitter Profile](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/your-twitter-handle)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+<div align="center">
+  <img src="https://www.pinterest.com/itssimplyliz/profile-banner-gif/" alt="[ALT TEKS HEADER]" width="[LEBAR HEADER]">
+  <h1>Hai, Saya [Nama Kamu] 👋</h1>
+  <p>Seorang [Profesi/Minat Utama Kamu, contoh: Pengembang Perangkat Lunak, Mahasiswa Ilmu Komputer, Kreator Konten] yang bersemangat tentang [Sebutkan Minat/Fokus Kamu, contoh: membangun solusi inovatif, menjelajahi teknologi baru, berbagi pengetahuan].</p>
+</div>
 
 ---
 
-## 🚀 Tentang Saya
+## 🚀 Sekilas Tentang Saya
 
-Saya adalah seorang [Sebutkan Profesi/Minat Utama Kamu, contoh: Pengembang Perangkat Lunak, Mahasiswa Ilmu Komputer, Desainer UI/UX] yang bersemangat tentang [Sebutkan Minat/Fokus Kamu, contoh: pengembangan web, kecerdasan buatan, game development]. Saya saat ini fokus pada [Sebutkan Fokus Saat Ini, contoh: mempelajari framework React, membangun proyek AI pribadi, mendalami Unity].
-
-[Tambahkan sedikit deskripsi pribadi yang menarik. Kamu bisa menyebutkan hal yang kamu sukai di luar coding, tujuan karir, atau filosofi pengembangan kamu.]
-
----
-
-## 🛠️ Keahlian & Teknologi
-
-Berikut adalah beberapa bahasa pemrograman, framework, tools, dan teknologi yang saya kuasai atau sedang pelajari:
-
-**Bahasa Pemrograman:**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-[Tambahkan ikon bahasa pemrograman lain yang relevan]
-
-**Framework & Library:**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
-[Tambahkan ikon framework/library lain yang relevan]
-
-**Tools & Lainnya:**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-[Tambahkan ikon tools/teknologi lain yang relevan]
+- 🔭 Saat ini saya sedang mengerjakan [Sebutkan Proyek/Fokus Saat Ini].
+- 🌱 Saya sedang mempelajari [Sebutkan Teknologi/Konsep yang Sedang Kamu Pelajari].
+- 👯 Saya terbuka untuk berkolaborasi dalam [Sebutkan Area Kolaborasi yang Kamu Minati].
+- 🤔 Saya mencari bantuan untuk [Sebutkan Jika Ada Hal Spesifik yang Kamu Butuhkan Bantuan].
+- 💬 Tanya saya tentang [Sebutkan Topik yang Kamu Kuasai atau Senang Diskusikan].
+- 😄 Kata ganti: [Sebutkan Kata Ganti yang Kamu Gunakan, contoh: ia/dia, mereka].
+- ⚡ Fakta menarik: [Sebutkan Fakta Menarik Tentang Diri Kamu, contoh: Saya suka mendaki gunung di waktu luang, Saya sedang belajar bermain gitar].
 
 ---
 
-## 🔭 Proyek Unggulan
+## 🛠️ Teknologi & Keahlian
 
-Berikut adalah beberapa proyek yang paling saya banggakan atau sedang aktif saya kerjakan:
-
-1.  **[Nama Proyek 1](Tautan ke Repositori/Demo)**
-    * Deskripsi singkat tentang proyek ini (1-2 kalimat). Jelaskan tujuannya, teknologi yang digunakan, dan fitur utama.
-    * ![[Opsional: Tambahkan screenshot kecil atau GIF proyek jika relevan]](URL Gambar)
-
-2.  **[Nama Proyek 2](Tautan ke Repositori/Demo)**
-    * Deskripsi singkat tentang proyek ini.
-    * ![[Opsional: Tambahkan screenshot kecil atau GIF proyek jika relevan]](URL Gambar)
-
-3.  **[Nama Proyek 3](Tautan ke Repositori/Demo)**
-    * Deskripsi singkat tentang proyek ini.
-
-[Tambahkan hingga 6 proyek unggulan di sini sesuai keinginanmu.]
-
----
-
-## <img src="https://github.com/anuraghazra/github-readme-stats/blob/master/graph/generated/languages.github-readme-stats.svg" alt="Top Languages" width="400" />
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=dark)](https://git.io/streak-stats)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[Ganti `your-username` dengan username GitHub kamu di atas untuk menampilkan statistik dan bahasa yang kamu gunakan.]
+<p align="left">
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca16085ee6057d302c6abe7/topics/javascript/javascript.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca16085ee6057d302c6abe7/topics/python/python.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca16085ee6057d302c6abe7/topics/java/java.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca16085ee6057d302c6abe7/topics/c/c.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca16085ee6057d302c6abe7/topics/cpp/cpp.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca16085ee6057d302c6abe7/topics/html/html.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca16085ee6057d302c6abe7/topics/css/css.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca16085ee6057d302c6abe7/topics/react/react.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca16085ee6057d302c6abe7/topics/nodejs/nodejs.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca16085ee6057d302c6abe7/topics/git/git.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca16085ee6057d302c6abe7/topics/unity/unity.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca16085ee6057d302c6abe7/topics/unreal-engine/unreal-engine.png"></code>
+  <br>
+  [Tambahkan atau sesuaikan ikon teknologi/keahlian lain yang relevan denganmu. Kamu bisa mencari ikon GitHub Explore atau menggunakan layanan badge seperti Shields.io]
+</p>
 
 ---
 
-## 🌱 Sedang Dipelajari
+## 📊 Statistik GitHub Saya
 
-Saat ini saya sedang aktif mempelajari:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula" alt="GitHub Stats">
+</p>
 
-* [Sebutkan teknologi/konsep yang sedang kamu pelajari, contoh: Machine Learning, Pengembangan Aplikasi Mobile dengan Flutter, Arsitektur Mikroservis]
-* [Tambahkan poin lain jika ada]
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=dracula" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dracula" alt="Top Languages">
+</p>
+
+[Ganti `YOUR_GITHUB_USERNAME` dengan username GitHub kamu di atas untuk menampilkan statistik profilmu.]
 
 ---
 
-## <img src="https://komarev.com/ghpvc/?username=your-username&count=true&label=Visitor" alt="Profile Views" />
+## 📌 Proyek Pilihan
 
-[Ganti `your-username` dengan username GitHub kamu di atas untuk menampilkan jumlah pengunjung profil.]
+<details>
+  <summary><b>[Nama Proyek 1]</b></summary>
+  <br>
+  [Deskripsi singkat proyek ini (1-2 kalimat). Sebutkan teknologi utama yang digunakan dan apa yang membuatnya menarik.]
+  <br>
+  🔗 [Tautan ke Repositori](https://de.wikipedia.org/wiki/Repositorium) | 🌐 [Tautan ke Demo/Live](https://www.merriam-webster.com/dictionary/demo)
+</details>
+
+<details>
+  <summary><b>[Nama Proyek 2]</b></summary>
+  <br>
+  [Deskripsi singkat proyek ini.]
+  <br>
+  🔗 [Tautan ke Repositori](https://de.wikipedia.org/wiki/Repositorium)
+</details>
+
+<details>
+  <summary><b>[Nama Proyek 3]</b></summary>
+  <br>
+  [Deskripsi singkat proyek ini.]
+  <br>
+  🔗 [Tautan ke Repositori](https://de.wikipedia.org/wiki/Repositorium)
+</details>
+
+[Tambahkan hingga beberapa proyek pilihanmu di sini menggunakan format `<details>` untuk membuatnya bisa di-expand.]
+
+---
+
+## <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 ---
 
 ## 📬 Mari Terhubung!
 
-Anda dapat menemukan saya di platform berikut:
-
-[![Your LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile/)
-[![Your Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/your-twitter-handle)
-[![Your Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:your-email@example.com)
-[Tambahkan ikon dan tautan ke platform lain seperti Portfolio Website, Instagram, dll.]
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_URL" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
+<a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank"><img align="center" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter" alt="Twitter"/></a>
+<a href="mailto:YOUR_EMAIL@example.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail" alt="Email"/></a>
+[Tambahkan tautan ke platform lain seperti website pribadi, portfolio, dll.]
+</p>
 
 ---
 
-Terima kasih telah mengunjungi profil saya! Jangan ragu untuk melihat repositori saya dan menghubungi saya jika ada kesempatan kolaborasi atau pertanyaan. 😊
+Terima kasih telah mengunjungi profil saya! Jangan ragu untuk menjelajahi repositori saya dan menghubungi jika ada kesempatan kolaborasi atau hal menarik lainnya. 😊
