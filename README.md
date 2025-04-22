@@ -1,16 +1,17 @@
+<h1 align="center">🎮 Hi, I'm Rico Surya Permana</h1>
+<p align="center">Game Developer | Unity Enthusiast</p>
+
 <!-- HEADER ILLUSTRATION -->
 <p align="center">
   <img src="https://media1.giphy.com/avatars/kendallaking/qYZoVGDtfIKh.GIF" width="50%" alt="Game Dev Banner"/>
 </p>
 
-<h1 align="center">🎮 Hi, I'm Rico Surya Permana</h1>
-<p align="center">Game Developer | Unity Enthusiast | Creative Coder</p>
-
 ---
 
-## 🧠 Tentang Saya
+## 🧠 About Me
 
-Saya adalah pengembang game yang fokus pada pembuatan pengalaman bermain yang menyenangkan, edukatif, dan interaktif. Menggunakan Unity sebagai mesin utama, saya senang membangun game dari ide sederhana hingga menjadi produk yang bisa dimainkan.
+I'm a passionate game developer focused on crafting fun, educational, and interactive experiences.  
+Using Unity as my primary engine, I love turning simple ideas into playable and engaging games.
 
 ---
 
@@ -23,16 +24,16 @@ Saya adalah pengembang game yang fokus pada pembuatan pengalaman bermain yang me
 
 ---
 
-## 🕹️ Beberapa Proyek
+## 🕹️ Some Projects
 
-| Nama Game              | Deskripsi                                        | Teknologi         |
-|------------------------|--------------------------------------------------|-------------------|
-| Bermain Kata           | Game edukasi bahasa dengan leaderboard & animasi | Unity, Firebase   |
-| Cerita Benih Ajaib     | Game Edukasi sederhana dengan konsep 2D          | Unity             |
+| Game Title             | Description                                       | Technologies       |
+|------------------------|---------------------------------------------------|--------------------|
+| Bermain Kata           | Language learning game with leaderboard & animation | Unity, Firebase   |
+| Cerita Benih Ajaib     | A simple 2D educational game with storytelling     | Unity              |
 
 ---
 
-## 🧰 Teknologi yang Saya Gunakan
+## 🧰 Tools & Technologies
 
 ![Unity](https://img.shields.io/badge/-Unity-100000?style=flat&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
@@ -40,7 +41,6 @@ Saya adalah pengembang game yang fokus pada pembuatan pengalaman bermain yang me
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![DOTween](https://img.shields.io/badge/-DOTween-FF69B4?style=flat&logo=unity)
 
-
 ---
 
-<p align="center"><i>"Game bukan hanya hiburan. Ia adalah seni, tantangan, dan cara belajar yang menyenangkan."</i></p>
+<p align="center"><i>"Games are not just entertainment. They're art, a challenge, and a fun way to learn."</i></p>
