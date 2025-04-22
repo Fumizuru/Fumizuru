@@ -14,13 +14,12 @@ Saya adalah pengembang game yang fokus pada pembuatan pengalaman bermain yang me
 
 ---
 
-## 📊 Skill Snapshot
+## 📈 GitHub Stats
 
-<!-- SKILL CHART - buat di https://quickchart.io/chart-maker -->
 <p align="center">
-  <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['Game Design','C#','Unity','UI/UX','Firebase','SQLite'],datasets:[{label:'Skill Level',data:[90,85,88,80,70,75]}]}}" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fumizuru&show_icons=true&theme=radical" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fumizuru&layout=compact&theme=radical" width="300" />
 </p>
-
 ---
 
 ## 🕹️ Beberapa Proyek
@@ -45,7 +44,7 @@ Saya adalah pengembang game yang fokus pada pembuatan pengalaman bermain yang me
 ## 📫 Hubungi Saya
 
 - 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 📧 Email: [youremail@example.com](mailto:youremail@example.com)
+- 📧 Email: [youremail@example.com](riko7juni2002@gmail.com)
 - 🌐 [Portofolio / Website (opsional)](https://yourwebsite.com)
 
 ---
