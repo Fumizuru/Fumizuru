@@ -1,6 +1,6 @@
 <!-- HEADER ILLUSTRATION -->
 <p align="center">
-  <img src="https://i.imgur.com/uZ4i1Gk.png" width="100%" alt="Game Dev Banner"/>
+  <img src="https://wallpapercave.com/wp/wp7664856.png" width="100%" alt="Game Dev Banner"/>
 </p>
 
 <h1 align="center">🎮 Hi, I'm Rico Surya Permana</h1>
@@ -20,6 +20,7 @@ Saya adalah pengembang game yang fokus pada pembuatan pengalaman bermain yang me
   <img src="https://github-readme-stats.vercel.app/api?username=fumizuru&show_icons=true&theme=radical" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fumizuru&layout=compact&theme=radical" width="300" />
 </p>
+
 ---
 
 ## 🕹️ Beberapa Proyek
@@ -44,8 +45,8 @@ Saya adalah pengembang game yang fokus pada pembuatan pengalaman bermain yang me
 ## 📫 Hubungi Saya
 
 - 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 📧 Email: [youremail@example.com](riko7juni2002@gmail.com)
-- 🌐 [Portofolio / Website (opsional)](https://yourwebsite.com)
+- 📧 Email: [riko7juni2002@gmail.com](riko7juni2002@gmail.com)
+- 🌐 [Portofolio / Website](https://yourwebsite.com)
 
 ---
 
